@@ -2,7 +2,7 @@
 
 📚 **Análise e Desenvolvimento de Sistemas.**
 
-💡 **Evoluindo práticas de Desenvolvimento Web.**
+💡 **Evoluindo práticas de Desenvolvimento Mobile.**
 
 
 
@@ -16,4 +16,5 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Adriel-flutter" height="30" width="40" src"https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"
 </div>
