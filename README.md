@@ -13,9 +13,9 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Adriel - Dart" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-  <img align="center" alt="Adriel - Flutter" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>  
-  <img align="center" alt="Adriel - FireBase" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  <img align="center" alt="Adriel - Dart" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+  <img align="center" alt="Adriel - Flutter" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>  
+  <img align="center" alt="Adriel - FireBase" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
     
           
 </div>
