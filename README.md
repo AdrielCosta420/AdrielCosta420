@@ -4,7 +4,7 @@
 
 💡 **Evoluindo práticas de Desenvolvimento Mobile.**
 
-
+📱 **Flutter / Dart.**
 
 <div>
   <a href="https://beacons.ai/AdrielCosta420">
